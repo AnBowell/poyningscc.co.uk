@@ -4,7 +4,7 @@ name: Build Hugo Site Check PR
 on:
   pull_request:
     paths:
-      - 'docs/**'
+      - 'website/**'
       - '.github/workflows/hugo-pr-check.yml'
   workflow_dispatch: {}
 
