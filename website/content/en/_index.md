@@ -18,7 +18,7 @@ With 2 Saturday league XIs in the [Dean Wilson Sussex Cricket League](https://su
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/logo-poynings-cc-transparent-white-text.png" loading="eager" >}}
+{{< img src="/img/logo-poynings-cc-transparent-black-text.png" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
