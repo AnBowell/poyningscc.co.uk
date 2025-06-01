@@ -20,7 +20,14 @@ With 2 Saturday league XIs in the [Dean Wilson Sussex Cricket League](https://su
 {{< img src="/img/placeholder.svg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
-<br> ## Welcome
+
+---
+
+> Please note this site is currently under development!
+
+---
+
+## Welcome
 Welcome to Poynings Cricket Club!
 
 Please use the navigation bar at the top to navigate around the site, find our club shop (provided by Gray Nicolls), or visit our fixtures, results and stats over at Play Cricket 👍
