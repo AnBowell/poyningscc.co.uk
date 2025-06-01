@@ -3,6 +3,11 @@ title: Poynings CC
 description: This is the home of Poynings Cricket Club.
 showHeader: false
 ---
+---
+
+> Please note this site is currently under development!
+
+---
 
 {{< columns count=2 >}}
 {{< column >}}
@@ -22,13 +27,13 @@ With 2 Saturday league XIs in the [Dean Wilson Sussex Cricket League](https://su
 {{< /column >}}
 {{< /columns >}}
 
----
-
-> Please note this site is currently under development!
-
----
-
 ## Welcome
-Welcome to Poynings Cricket Club!
+Welcome to Poynings Cricket Club's website! Here you can find all the information you need about our club, including fixtures, results, stats, and more.
+
+We are a friendly and inclusive club, welcoming players of all ages and abilities. Whether you're a seasoned cricketer or just starting out, there's a place for you at Poynings CC.
+
+We are committed to promoting the sport of cricket in our community and providing a fun and enjoyable environment for all our members. Our club is run by volunteers who are passionate about cricket and dedicated to making Poynings CC a great place to play.
 
 Please use the navigation bar at the top to navigate around the site, find our club shop (provided by Gray Nicolls), or visit our fixtures, results and stats over at Play Cricket 👍
+
+You can get in touch with us via the contact form on the website, or by emailing us at [contactus@poyningscc.co.uk](mailto:contactus@poyningscc.co.uk).
