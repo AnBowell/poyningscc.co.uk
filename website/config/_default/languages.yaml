@@ -23,9 +23,33 @@ en:
       name: "About us"
       url: "/about-us/"
       weight: 2
+    - identifier: "member-information"
+      name: "Member Information"
+      url: "/member-information/"
+      weight: 3
+    - identifier: "fees"
+      name: "Fees"
+      url: "/member-information/fees/"
+      parent: "member-information"
+      weight: 1
+    - identifier: "docs"
+      name: "Documents"
+      url: "/member-information/docs/"
+      parent: "member-information"
+      weight: 2
+    - identifier: "committee"
+      name: "Management Committee"
+      url: "/member-information/committee/"
+      parent: "member-information"
+      weight: 3
+    - identifier: "ground-information"
+      name: "Ground Information"
+      url: "/ground/"
+      weight: 4
     - identifier: "graynicolls"
-      name: "Gray Nicolls Club Shop"
+      name: "Gray Nicolls PCC Club Shop"
       url: "https://www.gray-nicolls.co.uk/collections/poynings-cricket-club"
+      parent: "member-information"
       weight: 9
     - identifier: "playcricket"
       name: "Play Cricket"
