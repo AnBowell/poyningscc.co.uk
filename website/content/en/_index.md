@@ -3,12 +3,6 @@ title: Poynings CC
 description: This is the home of Poynings Cricket Club.
 showHeader: false
 ---
----
-
-> Please note this site is currently under development!
-
----
-
 {{< columns count=2 >}}
 {{< column >}}
 
